@@ -1,4 +1,4 @@
-# Project 5: Semantic Segmentation Deep Learning
+# Semantic Segmentation Deep Learning
 
 ## Getting Started
   - See [Project 0](https://github.gatech.edu/cs4476/project-0) for detailed environment setup.
