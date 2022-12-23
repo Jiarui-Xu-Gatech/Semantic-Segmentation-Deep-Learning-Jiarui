@@ -7,3 +7,6 @@
 ##Transfer Learning: Utilize the PSPNet trained on Camvid dataset as our pre-trained model and train it on KITTI road segmentation dataset.
 
 ## See the doc for more details
+
+
+![Demo](doc/document.pdf)
